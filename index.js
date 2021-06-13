@@ -30,3 +30,8 @@ let getAkhanName = function(day, gender){
         display.innerHTML = `<p>Your Akan name is <strong> ${femaleKhanNames[day]} </strong>  becuase you are a ${gender} born on ${daysArray[day]}</p>`
     }
 }
+let hideElement = function() {
+    var x = document.getElementById("hiden-display");
+    x.style.display = "block";
+    
+  }
