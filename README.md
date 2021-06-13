@@ -1,2 +1,2 @@
-# Ghana Akan Names
+# Akan Names Ghana
 Skill test on java script
