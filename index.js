@@ -9,3 +9,8 @@ let formValidation = function(){
         unhideElement();
       alert("Ensure all inputs are entered correctly to get your Khan name") 
       return false;
+         }else{
+        
+        getUserDetails();
+    }
+}
