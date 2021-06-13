@@ -35,3 +35,12 @@ let hideElement = function() {
     x.style.display = "block";
     
   }
+let unhideElement = function() {
+    var x = document.getElementById("hiden-display");
+    x.style.display = "none";
+    
+  }
+
+let reset = function(){
+    location.reload();
+} 
