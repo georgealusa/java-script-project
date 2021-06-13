@@ -12,3 +12,12 @@ body{
     box-shadow: 0 0 5px 5px rgba(0,0,0, .05);
     border-radius: 10px;
 }
+.btns{
+    text-align: center;
+}
+
+.into-text{
+    font-style: normal;
+    font-weight: 600 !important;
+    text-align: center
+}
