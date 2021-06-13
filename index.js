@@ -18,3 +18,7 @@ let getUserDetails = function(){
     let data = document.getElementById("data").value;
     let gender = document.getElementById("gender").value
     let genDate = new Date(data).getDay();
+     getAkhanName(genDate,gender)
+}
+
+let display = document.getElementById("display")
