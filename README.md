@@ -1,2 +1,2 @@
-# java-script-project
+# Ghana Akan Names
 Skill test on java script
