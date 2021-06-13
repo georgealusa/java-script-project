@@ -22,3 +22,11 @@ let getUserDetails = function(){
 }
 
 let display = document.getElementById("display")
+let getAkhanName = function(day, gender){
+    if(gender === "Male"){
+        display.innerHTML = `<p>Your Akan name is <strong> ${maleKhanNames[day]}</strong>  becuase you are a ${gender} born on ${daysArray[day]}</p>`
+
+    }else if(gender === "Female"){
+        display.innerHTML = `<p>Your Akan name is <strong> ${femaleKhanNames[day]} </strong>  becuase you are a ${gender} born on ${daysArray[day]}</p>`
+    }
+}
