@@ -54,4 +54,7 @@ body{
     background-clip: padding-box;
     margin: 15px;
 }
+#hiden-display{
+    display: none
+}
 
