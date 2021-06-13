@@ -60,5 +60,8 @@ body{
 img{
     border-radius: 10px;
 }
-
+.form-control:focus{
+    color: #495057;
+    background-color: #fff;
+    border-color: #fff;
 
