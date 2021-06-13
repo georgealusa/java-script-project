@@ -34,3 +34,7 @@ body{
     color: #495057;
     height: auto;
     border-radius: 0;
+    background-color: #fff;
+    background-clip: padding-box;
+}
+  
